@@ -1,0 +1,23 @@
+{
+  "name": "Md. Sifatullah",
+  "authors": [
+    "Md. Sifatullah <sifatullah35-617@diu.edu.bd>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/Md-Sifatullah617/Bootstrap-Project",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "popper.js": "^2.9.2",
+    "bootstrap": "^5.0.2",
+    "jquery": "^3.6.0",
+    "font-awesome": "^5.15.3"
+  }
+}
